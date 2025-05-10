@@ -19,6 +19,8 @@ To set up the project locally, follow these steps:
 * **Views/** - SwiftUI views
 * **Info.plist** - App configuration file (contains the API base URL)
 * **Config/** - Contains environment-specific configuration files
+* **ViewModels/** 
+* **Utilities/** 
 
 ### 🔑 Setting Up the API Base URL
 

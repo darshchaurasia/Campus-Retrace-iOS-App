@@ -91,7 +91,7 @@ Cmd + B          # Rebuild Project
 
 ### 📚 Documentation
 
-For more details on using the MockAPI, check out the [MockAPI documentation](https://mockapi.io/docs).
+For more details on using the MockAPI, check out the [MockAPI documentation]([https://mockapi.io/docs](https://github.com/mockapi-io/docs/wiki)).
 
 ---
 

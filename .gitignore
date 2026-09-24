@@ -1,1 +1,4 @@
 Secrets.xcconfig
+
+# Generated files and local artifacts
+.DS_Store
